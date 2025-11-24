@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-🎓 I’m currently pursuing my **B.Tech in Computer Science and Engineering** at **KL University**, maintaining a **CGPA of 9.2/10**.  
+🎓 I completed my **B.Tech in Computer Science and Engineering** at **KL University**, maintaining a **CGPA of 9.2/10**.  
 💡 Passionate about building **data-driven solutions** and transforming raw data into actionable insights.  
 🚀 I love working on projects involving **data engineering, analytics, and cloud technologies** that bring efficiency and scalability.  
 🌱 Constantly learning new tools and techniques in **data pipelines, cloud infrastructure, and applied ML**.
