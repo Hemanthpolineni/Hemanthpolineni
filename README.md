@@ -14,15 +14,18 @@
 
 ## 🛠️ Skills & Technologies  
 
-| Domain | Tools / Technologies |
-|--------|----------------------|
-| **Programming** | Python, Java |
-| **Data Manipulation** | Pandas, NumPy |
-| **Databases** | MySQL, SQL |
-| **Data Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Statistical Analysis** | Descriptive Statistics, Regression, Hypothesis Testing |
-| **Cloud Technologies** | AWS (Lambda, CloudFront, S3, IAM) |
-| **Tools & Platforms** | Excel, Jupyter Notebook, Git |
+## 🛠️ Skills & Technologies
+
+| Category                | Skills / Tools                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| **Programming**         | Python, Java                                                                    |
+| **Data Manipulation**   | Pandas, NumPy                                                                   |
+| **Databases & Querying**| MySQL, SQL                                                                      |
+| **Data Visualization**  | Power BI, Tableau, Matplotlib, Seaborn                                          |
+| **Machine Learning**    | Regression, Classification, Model Evaluation, Feature Engineering               |
+| **Statistical Analysis**| Descriptive Statistics, Hypothesis Testing, Predictive Analytics                |
+| **Cloud Technologies**  | AWS (Lambda, S3, CloudFront, IAM)                                               |
+| **Tools & Platforms**   | Excel, Jupyter Notebook, Git, VScode                                            |
 
 ---
 
