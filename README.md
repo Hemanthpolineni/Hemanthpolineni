@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Hemanth Polineni  
-**Aspiring Data Engineer | Machine Learning Enthusiast | Cloud Practitioner**  
+**Aspiring Data Scientist | Machine Learning Enthusiast | Cloud Practitioner**  
 
 
 ---
@@ -35,6 +35,15 @@
 - Created **interactive Power BI dashboards** and **8+ static visualizations** with Matplotlib and Seaborn.  
 **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Jupyter Notebook  
 
+---
+
+### 🧠 **Autism Diagnosis Prediction**  
+📊 Built an end-to-end **Autism dataset preprocessing pipeline** (cleaning, encoding, scaling, leakage removal).  
+- Developed and evaluated a **Decision Tree classifier** with clear, interpretable performance metrics.  
+- Improved model accuracy to **83.5%** through enhanced preprocessing and model tuning.  
+- Visualized key insights and feature relationships using **exploratory data analysis (EDA)** to guide model improvements.  
+**Tools:** Python, ML Classification, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+  
 ---
 
 ### ☁️ **Serverless Media Orchestration**  
