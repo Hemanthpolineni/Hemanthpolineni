@@ -12,8 +12,6 @@
 
 ---
 
-## 🛠️ Skills & Technologies  
-
 ## 🛠️ Skills & Technologies
 
 | Category                | Skills / Tools                                                                 |
