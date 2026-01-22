@@ -20,7 +20,7 @@
 | **Data Manipulation**   | Pandas, NumPy                                                                   |
 | **Databases & Querying**| MySQL, SQL                                                                      |
 | **Data Visualization**  | Power BI, Tableau, Matplotlib, Seaborn                                          |
-| **Machine Learning**    | Regression, Classification, Model Evaluation, Feature Engineering               |
+| **Machine Learning**    | Supervised Learning , Unsupervised Learning , Model Evaluation                  |
 | **Statistical Analysis**| Descriptive Statistics, Hypothesis Testing, Predictive Analytics                |
 | **Cloud Technologies**  | AWS (Lambda, S3, CloudFront, IAM)                                               |
 | **Tools & Platforms**   | Excel, Jupyter Notebook, Git, VScode                                            |
