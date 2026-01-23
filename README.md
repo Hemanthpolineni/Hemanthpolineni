@@ -39,11 +39,11 @@
 ---
 
 ### 🧠 **Autism Diagnosis Prediction**  
-📊 Built an end-to-end **Autism dataset preprocessing pipeline** (cleaning, encoding, scaling, leakage removal).  
+📊 Built an end-to-end **Autism dataset preprocessing pipeline** (cleaning, encoding, scaling, leakage removal).
 - Developed and evaluated a **Decision Tree classifier** with clear, interpretable performance metrics.  
-- Improved model accuracy to **83.5%** through enhanced preprocessing and model tuning.  
-- Visualized key insights and feature relationships using **exploratory data analysis (EDA)** to guide model improvements.  
-**Tools:** Python, ML Classification, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+- Improved model performance to 83.5% accuracy through enhanced preprocessing and Decision Tree tuning, followed by Flask-based deployment for real-time predictions.
+- Implemented a modular, reusable ML pipeline with train–test consistency, model persistence (pickle), and input validation to ensure reliable and scalable real-time inference in production.  
+**Tools:** Python, ML Classification, NumPy, Pandas,Flask, Scikit-learn, Jupyter Notebook
   
 ---
 
