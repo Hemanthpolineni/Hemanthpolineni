@@ -51,7 +51,7 @@
 ⚙️ Designed and deployed a **serverless architecture** using AWS for large-scale media processing.  
 - Reduced processing costs by **40%** and scaled to handle **200K+ files monthly**.  
 - Integrated **AWS CloudFront, S3, and Lambda** with a React frontend, improving file retrieval speeds by **60%**.  
-**Tools:** AWS (Lambda, CloudFront, S3, IAM), React  
+**Tools:** AWS (Lambda, CloudFront, S3, IAM),HTML,CSS,JS 
 
 ---
 
