@@ -43,7 +43,7 @@
 - Developed and evaluated a **Decision Tree classifier** with clear, interpretable performance metrics.  
 - Improved model performance to 83.5% accuracy through enhanced preprocessing and Decision Tree tuning, followed by Flask-based deployment for real-time predictions.
 - Implemented a modular, reusable ML pipeline with train–test consistency, model persistence (pickle), and input validation to ensure reliable and scalable real-time inference in production.  
-**Tools:** Python, ML Classification, NumPy, Pandas,Flask, Scikit-learn, Jupyter Notebook
+**Tools:** Python, Machine Learning, NumPy, Pandas, Flask, Scikit-learn, Jupyter Notebook
   
 ---
 
